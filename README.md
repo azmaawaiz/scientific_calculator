@@ -1,4 +1,4 @@
-# Azma's Scientific Calculator
+# Easy to use Scientific Calculator
 
 A single-file scientific calculator that runs in any modern browser. It works with a very wide range of numbers: results can be anywhere from **10⁻⁹⁹⁹⁹ to 10⁹⁹⁹⁹**, with exact decimal arithmetic.
 
