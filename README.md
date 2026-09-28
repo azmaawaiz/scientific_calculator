@@ -4,7 +4,7 @@ A single-file scientific calculator that runs in any modern browser. It works wi
 
 ## Quick start
 
-1. Open `scientific-calculator.html` in a browser (double-click it).
+1. Open `easy_to_use_scientific_calculator.html` in a browser (double-click it).
 2. Start typing with the on-screen keys or your keyboard.
 
 There is nothing to install and no internet connection is needed. The only dependency, [decimal.js](https://github.com/MikeMcl/decimal.js) v10.6.0 (MIT licence), is embedded in the file.
